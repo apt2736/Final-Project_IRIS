@@ -1,0 +1,5 @@
+<launch>
+    <node name = "ImgSend" pkg = "FP_Magang" type = "ImgSend" output = "screen"/>
+    <node name = "ImgReceive" pkg = "FP_Magang" type = "ImgReceive" output = "screen"/>
+    <node name = "robotPub" pkg = "FP_Magang" type = "robotPub" output = "screen"/>
+</launch>

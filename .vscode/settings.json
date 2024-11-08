@@ -1,0 +1,8 @@
+{
+    "cmake.sourceDirectory": "/home/apt2736/FP_Magang/catkin_ws/src/ros-bridge/carla_spawn_objects",
+    "files.associations": {
+        "cmath": "cpp",
+        "complex": "cpp",
+        "vector": "cpp"
+    }
+}
